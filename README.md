@@ -1,7 +1,7 @@
 <p> <H1  align="center">Hi, I'm Mohammed Osama </H1>  </p>
  
 # 💫 About Me:
-👨‍💻 I’m Flutter Developer.<br>🔭 Faculty of computer science<br>🌱 I’m currently learning Php <br>💬 Ask me about Coding<br>⚡ - [💻 My Cv](https://drive.google.com/file/d/10iRovgCR7w2Oai855zAXkRS6gY6qZzkg/view)
+👨‍💻 I’m Flutter Developer.<br>🔭 Faculty of computer science<br>🌱 I’m currently learning C# <br>💬 Ask me about Coding<br>⚡ - [💻 My Cv](https://drive.google.com/file/d/10iRovgCR7w2Oai855zAXkRS6gY6qZzkg/view)
 
 
 ## 🌐 Socials:
